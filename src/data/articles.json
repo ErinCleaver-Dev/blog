@@ -1,0 +1,38 @@
+{"articles" : [
+    {
+        "article_id" : "1",
+        "article" : "Article 1",
+        "rank" : "A",
+        "link" : "/Article_1"
+    },
+    {
+        "article_id" : "2",
+        "article" : "Article 2",
+        "rank" : "C",
+        "link" : "/Article_2"
+    },
+    {
+        "article_id" : "3",
+        "article" : "Article 3",
+        "rank" : "D",
+        "link" : "/Article_3"
+    },
+    {
+        "article_id" : "4",
+        "article" : "Article 4",
+        "rank" : "A",
+        "link" : "/Article_4"
+    },
+    {
+        "article_id" : "5",
+        "article" : "Article 5",
+        "rank" : "C",
+        "link" : "/Article_5"
+    },
+    {
+        "article_id" : "6",
+        "article" : "Article 6",
+        "rank" : "A",
+        "link" : "/Article_6"
+    }
+]}
